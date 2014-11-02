@@ -1,4 +1,4 @@
 odoo-addons
 ===========
 
-Some modules I have made for Odoo
+Some modules from Odoo Community
